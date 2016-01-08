@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+
+# PlatformIO
+.pioenvs
+
+# Eclipse C++
+.settings
+.cproject
+.project
